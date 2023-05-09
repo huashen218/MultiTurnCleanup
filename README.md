@@ -7,7 +7,7 @@ MultiTurnCleanup is a targeted dataset for multi-turn spoken conversational tran
 Detailed experiments and analyses can be found in our [paper]().
 
 ## Dataset Description
-Disfl-QA consists of ~12k disfluent questions with the following train/dev/test splits:
+MultiTurnCleanup consists of ~143k multi-turn cleanup labels with the following train/dev/test splits:
 | File      | #Conv   |  #Turns   |   #Tokens   |  #Cleanup  |
 |-----|-----|-----|-----|-----|
 |Train | 932 | 74k   |  1M  |  132k  |
@@ -23,13 +23,14 @@ Disfl-QA consists of ~12k disfluent questions with the following train/dev/test 
 Please cite it as follows:
 
 ```
-@inproceedings{gupta-etal-2021-disflqa,
+@inproceedings{multiturncleanup,
     title = "{MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup}"
 }
 ```
 
 ## License
-<!-- MultiTurnCleanup dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). -->
+MultiTurnCleanup dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 
 ## Contact
 
