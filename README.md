@@ -13,7 +13,7 @@ Disfl-QA consists of ~12k disfluent questions with the following train/dev/test 
 |Train | 932 | 74k   |  1M  |  132k  |
 |Dev  |  86 |  3.7k  | 60k   | 6.1k   |
 |Test | 64 | 2.9k   |  43k  |  5k  |
-|Sum | 1082 | 81k   |  1.1M  |  143k  |
+|**Sum** | **1082** | **81k**   |  **1.1M**  |  **143k**  |
 
 
 
