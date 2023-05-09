@@ -1,6 +1,6 @@
 
 
-# MultiTurnCleanup: A Benchmark for Multi-Turn SpokenConversational Transcript Cleanup
+# MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup
 
 MultiTurnCleanup is a targeted dataset for multi-turn spoken conversational transcript cleanup. 
 
@@ -24,7 +24,7 @@ Please cite it as follows:
 
 ```
 @inproceedings{gupta-etal-2021-disflqa,
-    title = "{MultiTurnCleanup: A Benchmark for Multi-Turn SpokenConversational Transcript Cleanup}"
+    title = "{MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup}"
 }
 ```
 
