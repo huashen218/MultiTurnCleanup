@@ -4,7 +4,7 @@
 
 MultiTurnCleanup is a targeted dataset for multi-turn spoken conversational transcript cleanup. 
 
-Detailed experiments and analyses can be found in our [paper]().
+Detailed experiments and analyses can be found in our [paper](https://hua-shen.org/assets/files/google_multi_turn_cleanup.pdf).
 
 ## Dataset Description
 MultiTurnCleanup consists of ~143k multi-turn cleanup labels with the following train/dev/test splits:
