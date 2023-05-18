@@ -29,7 +29,8 @@ Please cite it as follows:
 ```
 
 ## License
-MultiTurnCleanup dataset is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+MultiTurnCleanup dataset is licensed under [LDC](https://www.ldc.upenn.edu/data-management/using/licensing).
+
 
 
 ## Contact
