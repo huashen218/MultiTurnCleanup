@@ -1,10 +1,27 @@
 
-
 # MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup
 
-MultiTurnCleanup is a targeted dataset for multi-turn spoken conversational transcript cleanup. 
+[![Arxiv](https://img.shields.io/badge/Arxiv-2304.01002-blue)](https://arxiv.org/pdf/2304.01002.pdf)
+[![Data](https://img.shields.io/badge/Data-.tsv-red)](https://github.com/huashen218/MultiTurnCleanup)
 
+This repository includes the MultiTurnCleanup dataset and [paper](https://arxiv.org/abs/2305.12029) accepted in the [EMNLP 2023](https://2023.emnlp.org/program/) main conference.
+
+MultiTurnCleanup is a targeted dataset for multi-turn spoken conversational transcript cleanup. 
 Detailed experiments and analyses can be found in our [paper](https://hua-shen.org/assets/files/google_multi_turn_cleanup.pdf).
+
+
+
+## Citation
+If you find this repo helpful to your research, please cite the paper:
+
+```
+@article{shen2023multiturncleanup,
+  title={MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup},
+  author={Shen, Hua and Zayats, Vicky and Rocholl, Johann C and Walker, Daniel D and Padfield, Dirk},
+  journal={arXiv preprint arXiv:2305.12029},
+  year={2023}
+}
+```
 
 ## Dataset Description
 MultiTurnCleanup consists of ~143k multi-turn cleanup labels with the following train/dev/test splits:
@@ -19,15 +36,6 @@ MultiTurnCleanup consists of ~143k multi-turn cleanup labels with the following 
 
 
 
-## Citation
-Please cite it as follows:
-
-```
-@inproceedings{multiturncleanup,
-    title = "{MultiTurnCleanup: A Benchmark for Multi-Turn Spoken Conversational Transcript Cleanup}"
-}
-```
-
 ## License
 MultiTurnCleanup dataset is licensed under [LDC](https://www.ldc.upenn.edu/data-management/using/licensing).
 
@@ -36,6 +44,9 @@ MultiTurnCleanup dataset is licensed under [LDC](https://www.ldc.upenn.edu/data-
 ## Contact
 
 Please create an issue in this repository or contact the authors directly.
+
+
+
 
 
 <!-- 
