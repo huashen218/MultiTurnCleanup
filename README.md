@@ -7,7 +7,7 @@
 This repository includes the MultiTurnCleanup dataset and [paper](https://arxiv.org/abs/2305.12029) accepted in the [EMNLP 2023](https://2023.emnlp.org/program/) main conference.
 
 MultiTurnCleanup is a targeted dataset for multi-turn spoken conversational transcript cleanup. 
-Detailed experiments and analyses can be found in our [paper](https://hua-shen.org/assets/files/google_multi_turn_cleanup.pdf).
+Detailed experiments and analyses can be found in our [paper](https://hua-shen.org/assets/files/google_multi_turn_cleanup.pdf). This work was done when the first author was a research intern at [Google AI Research](https://research.google/).
 
 
 
